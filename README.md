@@ -1,9 +1,13 @@
-# Terraform Modules AWS
+# Terraform Modules AWS Networking
 
-Repository Terraform Modules
+Repository Terraform Modules Neworking
 
 ```shell
-
+- AWS VPC
+- AWS Subnet Private and AWS Subnet Public
+- AWS Internet Gateway
+- AWS NAT Gateway
+- AWS Route Table and Routes
 ```
 
 ### Requisites
@@ -34,8 +38,8 @@ Version: v.0.1.0
 ### Contributing
 #### NTTDATA - DIGITAL ARCHITECTURE
 ```shell
-Author:  
-Date: 
+Marcos Cianci 
+Date: Ter, 15 Novembro de 2022
 ```
 
 ### Licensing
